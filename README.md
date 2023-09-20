@@ -5,7 +5,7 @@ This PowerShell script will rename all `.js` files to `.jsx` in a specified dire
 
 ## Instructions
 
-1. **Open PowerShell**: Press `Win + X`, then select "Windows PowerShell" from the menu that appears.
+1. **Open PowerShell**: Press `Win + X`, then select "Windows PowerShell (Admin)" from the menu that appears.
 
 2. **Change Directory**: Use the `cd` command to navigate to the directory where you want the script to run. For example:
 
